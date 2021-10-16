@@ -21,4 +21,4 @@ Timer.inc (berisi timers yang berkaitan dengan module)
 Dialog.inc (berisi callback dialog menggunakan easyDialog)
 Command.inc (berisi command menggunakan YCMD)
 
-Diambil dari https://github.com/Jogjagamers/SA-MP-Jogjagamers-Freeroam dan di fix gabisa login dan lain lain dan saya sudah menambahkan sql sendiri jadi anda yang mau ambil gm nya gausah repot buat database nya saya menambahkan samp compat untuk player angdroweed untuk mengmain
+Diambil dari ```https://github.com/Jogjagamers/SA-MP-Jogjagamers-Freeroam``` dan di fix gabisa login dan lain lain dan saya sudah menambahkan sql sendiri jadi anda yang mau ambil gm nya gausah repot buat database nya saya menambahkan samp compat untuk player angdroweed untuk mengmain
